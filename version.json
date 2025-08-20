@@ -1,3 +1,42 @@
-{
-  "version": "2025.1.2"
-}
+[
+  {
+    "id": "livestream-2",
+    "name": "Khối đi bộ quân đội, Quân đội nước ngoài, Dân quân tự vệ, Công an,",
+    "address": "Số 5 đường Lê Duẩn, phường Ba Đình, thành phố Hà Nội",
+    "file": "vip2",
+    "latLon": {
+      "lat": 21.0288999,
+      "lon": 105.8416476
+        }
+  },
+  {
+    "id": "livestream-3",
+    "name": "Khối Nghi trượng",
+    "address": "số 1 Hàng Khay, phường Cửa Nam, thành phố Hà Nội",
+    "file": "vip3",
+    "latLon": {
+      "lat": 21.0254424,
+      "lon": 105.8531072
+        }
+  },
+  {
+    "id": "livestream-4",
+    "name": "Tuyến xe bánh lốp",
+    "address": "số 1 Lê Đức Thọ, phường Từ Liêm, thành phố Hà Nội",
+    "file": "vip4",
+    "latLon": {
+      "lat": 21.0201684,
+      "lon": 105.7668078
+        }
+  },
+  {
+    "id": "livestream-5",
+    "name": "Điểm cuối Quảng trường",
+    "address": "số 142 Hùng Vương, phường Ba Đình, thành phố Hà Nội ",
+    "file": "vip5",
+    "latLon": {
+      "lat": 21.03109,
+      "lon": 105.83398
+    }
+  }
+]
