@@ -1,12 +1,12 @@
 [
   {
     "id": "livestream-1",
-    "name": "Khối Hồng kỳ",
-    "address": "Số 29 phố Liễu Giai, phường Ngọc Hà, thành phố Hà Nội",
+    "name": "Ra mắt A80 Openmap.vn - Đại học Phenika",
+    "address": "Phố Nguyễn Trác, phường Dương Nội, thành phố Hà Nội",
     "file": "vip1",
     "latLon": {
-      "lat": 21.0320806,
-      "lon": 105.8136392
+      "lat": 20.96177,
+      "lon": 105.74838
     }
   }
 ]

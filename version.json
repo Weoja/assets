@@ -1,5 +1,15 @@
 [
   {
+    "id": "livestream-1",
+    "name": "Khối Hồng kỳ",
+    "address": "Số 29 phố Liễu Giai, phường Ngọc Hà, thành phố Hà Nội",
+    "file": "vip1",
+    "latLon": {
+      "lat": 21.0320806,
+      "lon": 105.8136392
+    }
+  },
+  {
     "id": "livestream-2",
     "name": "Khối đi bộ quân đội, Quân đội nước ngoài, Dân quân tự vệ, Công an,",
     "address": "Số 5 đường Lê Duẩn, phường Ba Đình, thành phố Hà Nội",
