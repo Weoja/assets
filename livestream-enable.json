@@ -1,7 +1,7 @@
 [
   {
     "id": "livestream-1",
-    "name": "Điểm 1: Vỉa hè tòa Capital Place",
+    "name": "Khối Hồng kỳ",
     "address": "Số 29 phố Liễu Giai, phường Ngọc Hà, thành phố Hà Nội",
     "file": "vip1",
     "latLon": {
@@ -11,7 +11,7 @@
   },
   {
     "id": "livestream-2",
-    "name": "Điểm 2: Vỉa hè tòa nhà DOJI",
+    "name": "Khối đi bộ quân đội, Quân đội nước ngoài, Dân quân tự vệ, Công an,",
     "address": "Số 5 đường Lê Duẩn, phường Ba Đình, thành phố Hà Nội",
     "file": "vip2",
     "latLon": {
@@ -21,7 +21,7 @@
   },
   {
     "id": "livestream-3",
-    "name": "Điểm 3: Ngã tư phố Đinh Tiên Hoàng - Hàng Khay",
+    "name": "Khối Nghi trượng",
     "address": "số 1 Hàng Khay, phường Cửa Nam, thành phố Hà Nội",
     "file": "vip3",
     "latLon": {
@@ -31,7 +31,7 @@
   },
   {
     "id": "livestream-4",
-    "name": "Điểm 4: Quảng trường SVĐ quốc gia Mỹ Đình",
+    "name": "Tuyến xe bánh lốp",
     "address": "số 1 Lê Đức Thọ, phường Từ Liêm, thành phố Hà Nội",
     "file": "vip4",
     "latLon": {
@@ -41,12 +41,12 @@
   },
   {
     "id": "livestream-5",
-    "name": "Điểm 5: Cổng vào trường đua F1 ",
-    "address": " số 1 Lê Đức Thọ, phường Từ Liêm, thành phố Hà Nội ",
+    "name": "Điểm cuối Đoàn diễu binh",
+    "address": "số 142 Hùng Vương, phường Ba Đình, thành phố Hà Nội ",
     "file": "vip5",
     "latLon": {
-      "lat": 21.0193835,
-      "lon": 105.7661292
+      "lat": 21.03109,
+      "lon": 105.83398
     }
   }
 ]
