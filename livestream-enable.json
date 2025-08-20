@@ -3,6 +3,7 @@
     "id": "livestream-1",
     "name": "Điểm 1: Vỉa hè tòa Capital Place",
     "address": "Số 29 phố Liễu Giai, phường Ngọc Hà, thành phố Hà Nội",
+    "file": "vip1",
     "latLon": {
       "lat": 21.0320806,
       "lon": 105.8136392
@@ -12,6 +13,7 @@
     "id": "livestream-2",
     "name": "Điểm 2: Vỉa hè tòa nhà DOJI",
     "address": "Số 5 đường Lê Duẩn, phường Ba Đình, thành phố Hà Nội",
+    "file": "vip2",
     "latLon": {
       "lat": 21.0288999,
       "lon": 105.8416476
@@ -21,6 +23,7 @@
     "id": "livestream-3",
     "name": "Điểm 3: Ngã tư phố Đinh Tiên Hoàng - Hàng Khay",
     "address": "số 1 Hàng Khay, phường Cửa Nam, thành phố Hà Nội",
+    "file": "vip3",
     "latLon": {
       "lat": 21.0254424,
       "lon": 105.8531072
@@ -30,6 +33,7 @@
     "id": "livestream-4",
     "name": "Điểm 4: Quảng trường SVĐ quốc gia Mỹ Đình",
     "address": "số 1 Lê Đức Thọ, phường Từ Liêm, thành phố Hà Nội",
+    "file": "vip4",
     "latLon": {
       "lat": 21.0201684,
       "lon": 105.7668078
@@ -39,6 +43,7 @@
     "id": "livestream-5",
     "name": "Điểm 5: Cổng vào trường đua F1 ",
     "address": " số 1 Lê Đức Thọ, phường Từ Liêm, thành phố Hà Nội ",
+    "file": "vip5",
     "latLon": {
       "lat": 21.0193835,
       "lon": 105.7661292
