@@ -1,12 +1,12 @@
 [
   {
     "id": "livestream-1",
-    "name": "Ra mắt A80 Openmap.vn - Đại học Phenika",
-    "address": "Phố Nguyễn Trác, phường Dương Nội, thành phố Hà Nội",
+    "name": "Hợp luyện diễu binh, diễu hành",
+    "address": "Bảo Tàng Hồ Chí Minh, phường Ba Đình, thành phố Hà Nội",
     "file": "vip1",
     "latLon": {
-      "lat": 20.96177,
-      "lon": 105.74838
+      "lat": 21.03435,
+      "lon": 105.83173
     }
   }
 ]
