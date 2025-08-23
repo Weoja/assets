@@ -3,7 +3,7 @@
     "id": "livestream-1",
     "name": "Ngã tư Nguyễn Thái Học",
     "address": "số 142 Hùng Vương, phường Ba Đình, thành phố Hà Nội",
-    "file": "vip1",
+    "file": "vip5",
     "latLon": {
       "lat": 21.03109,
       "lon": 105.83398
@@ -47,6 +47,6 @@
       "lat": 21.031101,
       "lon": 105.8145905
     },
-    "file": "vip5"
+    "file": "vip1"
   }
 ]
