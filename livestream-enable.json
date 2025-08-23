@@ -1,12 +1,12 @@
 [
   {
     "id": "livestream-1",
-    "name": "Khối Hồng Kỳ",
-    "address": "Vincom Metropolis, phường Ngọc Hà, thành phố Hà Nội",
+    "name": "Ngã tư Nguyễn Thái Học",
+    "address": "số 142 Hùng Vương, phường Ba Đình, thành phố Hà Nội",
     "file": "vip1",
     "latLon": {
-      "lat": 21.031101,
-      "lon": 105.8145905
+      "lat": 21.03109,
+      "lon": 105.83398
     }
   },
   {
@@ -41,11 +41,11 @@
   },
   {
     "id": "livestream-5",
-    "name": "Điểm cuối Đoàn diễu binh",
-    "address": "số 142 Hùng Vương, phường Ba Đình, thành phố Hà Nội",
+    "name": "Khối Hồng Kỳ",
+    "address": "Vincom Metropolis, phường Ngọc Hà, thành phố Hà Nội",
     "latLon": {
-      "lat": 21.03109,
-      "lon": 105.83398
+      "lat": 21.031101,
+      "lon": 105.8145905
     },
     "file": "vip5"
   }
