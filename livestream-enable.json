@@ -1,12 +1,50 @@
 [
   {
     "id": "livestream-1",
-    "name": "Hợp luyện diễu binh, diễu hành",
-    "address": "Bảo Tàng Hồ Chí Minh, phường Ba Đình, thành phố Hà Nội",
+    "name": "Khối Hồng Kỳ",
+    "address": "Vincom Metropolis, phường Ngọc Hà, thành phố Hà Nội",
     "file": "vip1",
     "latLon": {
-      "lat": 21.03435,
-      "lon": 105.83173
+      "lat": 21.031101,
+      "lon": 105.8145905
+    }
+  },
+  {
+    "id": "livestream-2",
+    "name": "Khối đi bộ quân đội, Quân đội nước ngoài, Dân quân tự vệ, Công an",
+    "address": "Phố Nguyễn Thái Học, phường Ba Đình, thành phố Hà Nội",
+    "file": "vip2",
+    "latLon": {
+      "lat": 21.028900658602407,
+      "lon": 105.84118486671191
+    }
+  },
+  {
+    "id": "livestream-3",
+    "name": "Khối Nghi Trượng",
+    "address": "số 1 Hàng Khay, phường Cửa Nam, thành phố Hà Nội",
+    "file": "vip3",
+    "latLon": {
+      "lat": 21.0254424,
+      "lon": 105.8531072
+    }
+  },
+  {
+    "id": "livestream-4",
+    "name": "Tuyến xe bánh lốp",
+    "address": "Liên đoàn Bóng đá Việt Nam, phường Từ Liêm, thành phố Hà Nội",
+    "latLon": {
+      "lat": 21.016061,
+      "lon": 105.7685213
+    }
+  },
+  {
+    "id": "livestream-5",
+    "name": "Điểm cuối Đoàn diễu binh",
+    "address": "số 142 Hùng Vương, phường Ba Đình, thành phố Hà Nội",
+    "latLon": {
+      "lat": 21.03109,
+      "lon": 105.83398
     }
   }
 ]
