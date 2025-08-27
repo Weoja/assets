@@ -1,7 +1,7 @@
 [
   {
     "id": "livestream-1",
-    "name": "Ngã tư Nguyễn Thái Học",
+    "name": "Ngã tư Nguyễn Thái Học - Hùng Vương",
     "address": "số 142 Hùng Vương, phường Ba Đình, thành phố Hà Nội",
     "file": "vip5",
     "latLon": {
@@ -12,7 +12,7 @@
   {
     "id": "livestream-2",
     "name": "Khối đi bộ quân đội, Quân đội nước ngoài, Dân quân tự vệ, Công an",
-    "address": "Phố Nguyễn Thái Học, phường Ba Đình, thành phố Hà Nội",
+    "address": "37 Nguyễn Thái Học, phường Ba Đình, thành phố Hà Nội",
     "file": "vip2",
     "latLon": {
       "lat": 21.028900658602407,
