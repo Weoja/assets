@@ -48,5 +48,15 @@
       "lon": 105.8145905
     },
     "file": "vip1"
+  },
+  {
+    "id": "livestream-6",
+    "name": "Triển lãm thành tựu 80 năm đất nước",
+    "address": "Trung tâm triển lãm quốc gia - VEC, xã Đông Anh, thành phố Hà Nội",
+    "latLon": {
+      "lat": 21.08556,
+      "lon": 105.86602
+    },
+    "file": "vip6"
   }
 ]
